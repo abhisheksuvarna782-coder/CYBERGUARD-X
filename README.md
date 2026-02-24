@@ -10,7 +10,9 @@ It identifies spam messages, detects malicious phone numbers, and provides real-
 ## ✨ Features
 
 ✅ AI-powered spam message detection
+
 ✅ Phone number threat intelligence system
+
 ✅ Real-time prediction engine
 ✅ Machine learning classification model
 ✅ Clean web interface
