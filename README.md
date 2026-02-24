@@ -14,10 +14,15 @@ It identifies spam messages, detects malicious phone numbers, and provides real-
 ✅ Phone number threat intelligence system
 
 ✅ Real-time prediction engine
+
 ✅ Machine learning classification model
+
 ✅ Clean web interface
+
 ✅ Cyber-security inspired UI
+
 ✅ Database logging & analytics
+
 ✅ Deployable production backend
 
 ---
