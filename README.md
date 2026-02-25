@@ -127,8 +127,9 @@ Application deployed on Railway:
 ## 👨‍💻 Author
 
 **Abhishek Suvarna**
+
 Computer Science (AIML) Student
-Cybersecurity & AI Enthusiast
+AI Enthusiast
 
 GitHub: https://github.com/abhisheksuvarna782-coder
 
