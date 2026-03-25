@@ -7,7 +7,7 @@ It identifies spam messages, detects malicious phone numbers, and provides real-
 
 ---
 
-## ✨ Features.
+## ✨ Features
 
 ✅ AI-powered spam message detection
 
