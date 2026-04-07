@@ -1,6 +1,6 @@
 # 🛡️ CYBERGUARD-X — AI Spam Detection & Cyber Security System
 
-CYBERGUARD-X is an intelligent spam detection and phone number threat analysis system powered by Machine Learning.
+CYBERGUARD-X is an intelligent spam detection and phone number threat analysis system powered by Machine Learning
 It identifies spam messages, detects malicious phone numbers, and provides real-time cyber threat insights.
 
 🚀 **Live Demo:** https://joyful-forgiveness-production-3ac1.up.railway.app
